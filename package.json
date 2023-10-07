@@ -11,5 +11,8 @@
 		"type": "git",
 		"url": "https://idontknow/todo.git"
 	},
-	"author": "Favour Max-Oti"
+	"author": "Favour Max-Oti",
+	"engines": {
+		"node": ">= 20.7.0"
+	}
 }
